@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    /* padding: 0; */
+    box-sizing: border-box;
+    /* padding: 5px; */
+}
+
+#cardis{
+padding-left: 5px;
+padding-right: 5px;
+    padding-top: 5px;
+
+text-transform: uppercase;
+font-style: normal;
+border: 1px solid;
+margin-bottom: 10px;
+
+}
+
+.card{
+
+    max-height: 600px;
+}
+
+.card-text{
+    
+    max-height: 100px;
+
+
+}
+
+
+
+
+
+#navis nav ul{
+    height: 50px;
+    width: 100%;
+    display: flex;
+    background-color: yellow;
+    align-items: center;
+    margin-bottom: 0px;
+
+}
+#navis nav ul li a{
+    text-decoration: none;
+}
+
+
+
+#navis nav ul li{
+    flex: auto;
+   text-transform: uppercase;
+  display: inline;
+  
+ 
+}
+
+
+.linker{
+    
+    
+   height: 30px;
+   width: 100%;
+   text-align: center;
+}
+
+.linker a{
+    
+    border: 1px solid;
+}
+
+
+.card-title{
+text-align: left;
+
+}
+
+
+.contai{
+    border: 1px solid ;
+    padding-top: 5px;
+
+padding-left: 20px;
+padding-right: 20px;
+padding-bottom: 20px;
+
+
+}
+
+
+.text-muted{
+
+    font-weight:400 ;
+    font-size: larger;
+   
+}
+
+
+
+.contai h2{
+scroll-padding-left: 10px;
+
+padding-top: 5px;
+}
